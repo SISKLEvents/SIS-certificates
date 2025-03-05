@@ -1,9 +1,8 @@
 # SIS Certificates 🎓
 
-Welcome to the **SIS Certificates** repository! 🎉
+### Welcome to the **SIS Certificates** repository! 🎉
 
 This repository is used to store e-certificates for our events. 
-
 Participants can find and download their certificates here.
 
 ## 📜 How It Works
